@@ -179,7 +179,7 @@ If you use this code, please cite:
              to deal with measurable disturbances},
   author  = {Guzm\'{a}n, Jos\'{e} Luis and Pataro, Igor and Gil, Juan D. and Berenguel, Manuel},
   journal = {Journal of Process Control},
-  DOI = {[[yalmip.github.io](https://doi.org/10.1016/j.jprocont.2026.103887)]([https://yalmip.github.io](https://doi.org/10.1016/j.jprocont.2026.103887)))},
+  DOI = {[https://doi.org/10.1016/j.jprocont.2026.103887](https://doi.org/10.1016/j.jprocont.2026.103887)},
   year    = {2026}
 }
 ```
